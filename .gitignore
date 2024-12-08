@@ -1,0 +1,15 @@
+# Ignore Node.js dependencies
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker artifacts
+*.env
+*.pid
